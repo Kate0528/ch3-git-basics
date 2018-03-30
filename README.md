@@ -7,3 +7,4 @@ of the [Introduction to Programming for Information and Data Science](https://in
 Solutions can be found in the `solution` branch.
 
 Completed by Kate
+Complted by Kate on 3/30/2018
